@@ -9,4 +9,6 @@ Con está aplicacion creada en python no necesitaras ir a ninguna pagina web par
 Disfrutala
 
 
-<img src="https://img.icons8.com/color/452/twitter--v1.png">
+
+
+<a title="Mi twitter" href="https://twitter.com/jose89fcb"><img src="https://img.icons8.com/color/452/twitter--v1.png" alt="Mi twitter Jose89fcb" /></a>
